@@ -23,6 +23,12 @@ img {
 
 .icon-Traling-Icons {
     width: 5.7998046875em;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
 }
 
 

@@ -260,7 +260,18 @@ button {
     border-radius: 0px 0px 4px 4px;
 }
 
+.icon-icon-traling-icons {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
 
+.icon-Traling-Icons {
+    width: 5.7998046875em;
+}
 
 .name {
     padding-top: 32px;

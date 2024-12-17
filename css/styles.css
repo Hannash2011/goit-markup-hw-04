@@ -303,9 +303,6 @@ button {
 
 }
 
-
-
-
 .possibilities-list {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
@@ -314,6 +311,10 @@ button {
 
 .possibilities {
     margin-bottom: 8px;
+}
+
+.icon-facebook {
+    fill: #f4f4fd;
 }
 
 /*   */

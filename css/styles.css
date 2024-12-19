@@ -58,7 +58,7 @@ button {
 .header-nav {
     display: flex;
     align-items: center;
-
+    position: relative;
 }
 
 .logo {

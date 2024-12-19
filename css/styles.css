@@ -93,8 +93,7 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
-    position: relative;
-    color: #404bbf;
+
 
 }
 
@@ -120,6 +119,8 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02cm;
     color: #2e2f42;
+    position: relative;
+    color: #404bbf;
 }
 
 .nav-item-link:hover,

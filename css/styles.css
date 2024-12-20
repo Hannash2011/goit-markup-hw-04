@@ -331,7 +331,7 @@ button {
 
 .visually-hidden {
     position: fixed;
-    transform: scale(0);
+    transform: translateY(0%);
     position: absolute;
     width: 1px;
     height: 1px;
@@ -344,6 +344,9 @@ button {
     overflow: hidden;
 }
 
+.caption-list-point {
+    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 
 .work {
     padding-top: 120px;

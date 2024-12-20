@@ -263,8 +263,6 @@ button {
         0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-
-
 .name {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -293,11 +291,17 @@ button {
     justify-content: center;
 }
 
-.social-networks:hover,
+.social-networks:hover {
+    background-color: #404bbf;
+}
+
 .social-networks:focus {
     background-color: #404bbf;
 }
 
+.social {
+    fill: #f4f4fd;
+}
 
 .description {
     background-color: #2e2f42;
@@ -314,7 +318,6 @@ button {
 .logo {
     display: inline-block;
     margin-bottom: 16px;
-
 }
 
 .logo-style {

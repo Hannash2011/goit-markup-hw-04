@@ -129,7 +129,7 @@ button {
     margin-right: 76px;
 }
 
-.logo-style-hed::after {
+.logo-header-logo::after {
     width: 100%;
     position: absolute;
     left: 0;

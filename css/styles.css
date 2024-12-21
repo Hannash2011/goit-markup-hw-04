@@ -106,6 +106,12 @@ button {
     margin-bottom: 16px;
 }
 
+.footer-icons-social {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
 .logo-style-hed {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -295,6 +301,7 @@ button {
     justify-content: center;
     gap: 24px;
 }
+
 
 .icons-social-networks {
     width: 40px;

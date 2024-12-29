@@ -161,26 +161,16 @@ button {
 }
 
 .nav-item-link:hover,
-.nav-item-link:focus {
+.nav-item-link:focus,
+.nav-item-link.current {
     color: #404bbf
 }
 
-
-.current {
+.nav-item-link.current {
     position: relative;
-    color: var(--ocean);
+
 }
 
-.nav-link.current::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -1px;
-    display: block;
-    width: 48px;
-    height: 48px;
-    border-radius: 0;
-}
 
 .address-page {
     font-style: normal;
